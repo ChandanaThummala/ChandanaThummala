@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**ChandanaThummala/ChandanaThummala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Chandana Thummala — a Data Science graduate (Distinction) from Nottingham Trent University, with over 2 years of experience in data analytics, system optimization, and AI-driven solutions.
 
-Here are some ideas to get you started:
+🔍 I’ve worked at Tata Consultancy Services (TCS) with Barclays Bank, supporting HRTech systems and building enterprise-grade Power BI dashboards, SQL pipelines, and predictive solutions. I’ve also collaborated on neuro-health research as a Junior Data Scientist Intern, applying machine learning to brain-computer interface signals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ My expertise spans:
+- 🐍 Python (Pandas, NumPy, Scikit-learn, TensorFlow)
+- 📊 Power BI dashboards
+- 🧠 Explainable AI (XAI) using SHAP, LIME
+- 🛠 SQL automation & large-scale data processing
+- ☁️ Cloud deployment (Microsoft Azure)
+- 🤖 Building and deploying ML models for healthcare and insurance use cases
+
+🏆 Awarded the **XCELERATE WARRIOR** by TCS for outstanding contributions.
+
+I’m passionate about using data to solve real-world problems, especially in health, finance, and enterprise automation.
+
+Let’s connect — I’m currently open to opportunities in data science, AI, and analytics roles.
