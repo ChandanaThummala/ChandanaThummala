@@ -1,6 +1,6 @@
 ## About Me
 
-I’m Chandana Thummala — a Data Science graduate (Distinction) from Nottingham Trent University, with over 2 years of experience in data analytics, system optimization, and AI-driven solutions.
+I’m Chandana, a Data Science graduate (Distinction) from Nottingham Trent University, with over 2 years of experience in data analytics, system optimization, and AI-driven solutions.
 
 I’ve worked at Tata Consultancy Services (TCS) with Barclays Bank, supporting HRTech systems and building enterprise-grade Power BI dashboards, SQL pipelines, and predictive solutions. I’ve also collaborated on neuro-health research as a Junior Data Scientist Intern, applying machine learning to brain-computer interface signals.
 
