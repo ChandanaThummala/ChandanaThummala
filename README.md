@@ -17,9 +17,7 @@ Awarded the **XCELERATE WARRIOR** by TCS for outstanding contributions.
 
 I’m passionate about using data to solve real-world problems, especially in health, finance, and enterprise automation.
 
-Let’s connect — I’m currently open to opportunities in data science, AI, and analytics roles.
-
-**Let’s Connect**
+**Let’s Connect** - I’m currently open to opportunities in data science, AI, and analytics roles.
 
 - [LinkedIn](https://www.linkedin.com/in/chandana-thummala)
 - thummala.chandana19@gmail.com
