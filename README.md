@@ -6,6 +6,7 @@ I’ve worked at Tata Consultancy Services (TCS) with Barclays Bank, supporting 
 
 My expertise spans:
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow)
+- SQL & PL/SQL for automation and reporting
 - Power BI dashboards
 - Explainable AI (XAI) using SHAP, LIME
 - SQL automation & large-scale data processing
